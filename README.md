@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 3DS Hourlies
+
+Something something this is a WIP
 
 You can use the [editor on GitHub](https://github.com/T3CHNOLOG1C/3DS-Hourlies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
